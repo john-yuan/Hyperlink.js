@@ -1,0 +1,33 @@
+{
+  "name": "x-hyperlink",
+  "version": "1.0.0",
+  "description": "An util to parse URL in Node.js and browsers.",
+  "main": "lib/Hyperlink.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "devDependencies": {
+    "@john-yuan/dev-browserify-builder": "^1.0.1",
+    "@john-yuan/dev-browserify-watcher": "^1.0.6",
+    "@john-yuan/dev-server": "^1.2.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "node scripts/dev.js",
+    "build": "node scripts/build.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/john-yuan/Hyperlink.js.git"
+  },
+  "keywords": [
+    "Hyperlink",
+    "URL-parsing"
+  ],
+  "author": "JOHN YUAN",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/john-yuan/Hyperlink.js/issues"
+  },
+  "homepage": "https://github.com/john-yuan/Hyperlink.js#readme"
+}
