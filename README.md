@@ -1,6 +1,6 @@
 # Hyperlink.js
 
-HyperLink.js is an util to parse URL. Can be used in Node.js and browsers. For details, see the
+Hyperlink.js is an util to parse URL. Can be used in Node.js and browsers. For details, see the
 example in the following section.
 
 ## Installation
