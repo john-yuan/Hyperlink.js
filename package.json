@@ -1,6 +1,6 @@
 {
   "name": "x-hyperlink",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "An util to parse URL in Node.js and browsers.",
   "main": "lib/Hyperlink.js",
   "directories": {
