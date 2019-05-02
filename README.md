@@ -1,5 +1,7 @@
 # Hyperlink.js
 
+[![Build Status](https://travis-ci.org/john-yuan/Hyperlink.js.svg?branch=master)](https://travis-ci.org/john-yuan/Hyperlink.js)
+
 Hyperlink.js is an util to parse URL. Can be used in Node.js and browsers. For details, see the
 example in the following section.
 
