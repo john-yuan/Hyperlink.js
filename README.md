@@ -45,7 +45,7 @@ The `link` is an instance of `Hyperlink` which holds the following informations:
 ## API
 
 Do not modify the properties of the Hyperlink instance directly, because some property has dependency
-on other properties. The bset way to update the property is use the setter methods, which will handle
+on other properties. The best way to update the property is use the setter methods, which will handle
 the dependencies among them. All available methods are listed as follow:
 
 * Hyperlink.parse(url)
