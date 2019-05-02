@@ -2,6 +2,8 @@
 
 [![npm version](https://img.shields.io/npm/v/x-hyperlink.svg)](https://www.npmjs.com/package/x-hyperlink)
 [![Build Status](https://travis-ci.org/john-yuan/Hyperlink.js.svg?branch=master)](https://travis-ci.org/john-yuan/Hyperlink.js)
+[![install size](https://packagephobia.now.sh/badge?p=x-hyperlink)](https://packagephobia.now.sh/result?p=x-hyperlink)
+[![npm downloads](https://img.shields.io/npm/dm/x-hyperlink.svg)](http://npm-stat.com/charts.html?package=x-hyperlink)
 
 Hyperlink.js is an util to parse URL. Can be used in Node.js and browsers. For details, see the
 example in the following section.
