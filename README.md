@@ -22,6 +22,9 @@ var url = 'https://user:pass@example.com:8080/search?q=javascript#results';
  * @type {Hyperlink}
  */
 var link = Hyperlink.parse(url);
+
+// Or you can use the constructor directly:
+// var link = new Hyperlink(url);
 ```
 
 The `link` is an instance of `Hyperlink` which holds the following informations:

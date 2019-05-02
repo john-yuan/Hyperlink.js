@@ -1,6 +1,6 @@
 {
   "name": "x-hyperlink",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "An util to parse URL in Node.js and browsers.",
   "main": "lib/Hyperlink.js",
   "directories": {
@@ -9,10 +9,11 @@
   "devDependencies": {
     "@john-yuan/dev-browserify-builder": "^1.0.1",
     "@john-yuan/dev-browserify-watcher": "^1.0.6",
-    "@john-yuan/dev-server": "^1.2.0"
+    "@john-yuan/dev-server": "^1.2.0",
+    "mocha": "^6.1.4"
   },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
+    "test": "node scripts/build.js && mocha",
     "dev": "node scripts/dev.js",
     "build": "node scripts/build.js"
   },
