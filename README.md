@@ -1,3 +1,7 @@
+# Deprecated
+
+**This module is deprecated! Please use [HyperlinkParser.js](https://www.npmjs.com/package/hyperlink-parser) instead!**
+
 # Hyperlink.js
 
 [![npm version](https://img.shields.io/npm/v/x-hyperlink.svg)](https://www.npmjs.com/package/x-hyperlink)
